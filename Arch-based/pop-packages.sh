@@ -127,8 +127,8 @@ echo " Setting shortcuts  |"
 echo "--------------------"
 
 gsettings set org.gnome.desktop.wm.keybindings close "['<Super>q']"
-gsettings set org.gnome.desktop.wm.keybindings
-gsettings set org.gnome.desktop.wm.keybindings 
+#gsettings set org.gnome.desktop.wm.keybindings //  Placeholder
+#gsettings set org.gnome.desktop.wm.keybindings // Placeholder
 
 echo "--------------------"
 echo " Setting theming   |"
